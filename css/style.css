@@ -1971,3 +1971,6 @@ ul.address-info.one li {
 	background: #d5f715 url(../images/scroll-top-arrow.png) no-repeat 15px 14px;
 	z-index: 999;
 }
+.hoverwhite:hover{
+	color: white !important;
+}
